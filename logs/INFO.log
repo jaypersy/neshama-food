@@ -1,0 +1,27 @@
+INFO 2021-11-26 23:10:27,757 basehttp 20036 8748 "GET / HTTP/1.1" 302 0
+INFO 2021-11-26 23:10:27,860 basehttp 20036 8748 "GET /store HTTP/1.1" 200 22054
+INFO 2021-11-26 23:10:27,969 basehttp 20036 8748 "GET /image/download/uploads/products/black-forest-cake-thumb.jpg HTTP/1.1" 200 213356
+INFO 2021-11-26 23:10:27,969 basehttp 20036 13884 "GET /image/download/uploads/products/Chocolate_cake.jpg HTTP/1.1" 200 56757
+INFO 2021-11-26 23:10:27,973 basehttp 20036 23160 "GET /image/download/uploads/products/Indian_Lentil_Curry.jpg HTTP/1.1" 200 101388
+INFO 2021-11-26 23:10:27,976 basehttp 20036 8748 "GET /image/download/uploads/products/Chinese_Pearl_Meatballs.jpg HTTP/1.1" 200 75939
+INFO 2021-11-26 23:10:27,977 basehttp 20036 13884 "GET /image/download/uploads/products/Chicken_Chop_Suey_with_Ginger.jpg HTTP/1.1" 200 95286
+INFO 2021-11-26 23:10:27,979 basehttp 20036 24360 "GET /image/download/uploads/products/Asian_Lettuce_Wraps.jpg HTTP/1.1" 200 105105
+INFO 2021-11-26 23:10:27,980 basehttp 20036 21656 "GET /image/download/uploads/products/Masala_Dosa.jpg HTTP/1.1" 200 97587
+INFO 2021-11-26 23:10:27,981 basehttp 20036 20272 "GET /image/download/uploads/products/Sambar_Rice.jpg HTTP/1.1" 200 122631
+INFO 2021-11-26 23:10:27,982 basehttp 20036 23160 "GET /image/download/uploads/products/Chinese_Soup.jpg HTTP/1.1" 200 103846
+INFO 2021-11-26 23:10:27,984 basehttp 20036 8748 "GET /image/download/uploads/products/Kung_Pao_Chicken.jpg HTTP/1.1" 200 81361
+INFO 2021-11-26 23:10:27,985 basehttp 20036 13884 "GET /image/download/uploads/products/Mongolian_Chicken_with_Mung_Bean_Sprouts.jpg HTTP/1.1" 200 108368
+INFO 2021-11-26 23:10:27,988 basehttp 20036 24360 "GET /image/download/uploads/products/Quick_Shrimp_Stir-Fry.jpg HTTP/1.1" 200 74661
+INFO 2021-11-26 23:10:27,988 basehttp 20036 21656 "GET /image/download/uploads/products/Taiwanese_Beef_Noodle_Soup.jpg HTTP/1.1" 200 105066
+INFO 2021-11-26 23:10:27,989 basehttp 20036 20272 "GET /image/download/uploads/products/Meatball_sour_soup.jpg HTTP/1.1" 200 79891
+INFO 2021-11-26 23:10:27,991 basehttp 20036 23160 "GET /image/download/uploads/products/Romanian_Sarmale.jpg HTTP/1.1" 200 108360
+INFO 2021-11-26 23:10:27,993 basehttp 20036 13884 "GET /image/download/uploads/products/Cider_braised_turkey_drumsticks.jpg HTTP/1.1" 200 93671
+INFO 2021-11-26 23:10:27,993 basehttp 20036 8748 "GET /image/download/uploads/products/Romanian_Stuffed_Peppers.jpg HTTP/1.1" 200 125809
+INFO 2021-11-26 23:10:27,997 basehttp 20036 23160 "GET /image/download/uploads/products/Meat_hummus.jpg HTTP/1.1" 200 75626
+INFO 2021-11-26 23:10:27,998 basehttp 20036 20272 "GET /image/download/uploads/products/Israeli_Hummus.jpg HTTP/1.1" 200 135070
+INFO 2021-11-26 23:10:27,998 basehttp 20036 21656 "GET /image/download/uploads/products/Israeli_Shakshuka.jpg HTTP/1.1" 200 101003
+INFO 2021-11-26 23:10:27,998 basehttp 20036 24360 "GET /image/download/uploads/products/Fried_chicken_with_tofu_skin.jpg HTTP/1.1" 200 91652
+INFO 2021-11-26 23:10:28,002 basehttp 20036 13884 "GET /image/download/uploads/products/Slow_cooker_lemon_lamb_stew.jpg HTTP/1.1" 200 118128
+INFO 2021-11-26 23:10:28,002 basehttp 20036 8748 "GET /image/download/uploads/products/Tuna_wrap.jpg HTTP/1.1" 200 73523
+WARNING 2021-11-26 23:10:28,196 log 20036 8748 Not Found: /favicon.ico
+WARNING 2021-11-26 23:10:28,196 basehttp 20036 8748 "GET /favicon.ico HTTP/1.1" 404 3581
