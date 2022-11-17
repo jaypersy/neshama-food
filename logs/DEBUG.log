@@ -1,69 +1,230 @@
-DEBUG 2021-11-26 23:10:25,212 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\ImageMode.py first seen with mtime 1637615862.5669906
-DEBUG 2021-11-26 23:10:25,213 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\__init__.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,213 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1637613460.9186325
-DEBUG 2021-11-26 23:10:25,213 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1637613460.9186325
-DEBUG 2021-11-26 23:10:25,214 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1637613461.4427114
-DEBUG 2021-11-26 23:10:25,214 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1637613461.6652582
-DEBUG 2021-11-26 23:10:25,215 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1637613461.6642616
-DEBUG 2021-11-26 23:10:25,215 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1637613461.606012
-DEBUG 2021-11-26 23:10:25,215 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1637613461.4437084
-DEBUG 2021-11-26 23:10:25,215 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0004_auto_20200528_1430.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,215 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_binary.py first seen with mtime 1637615862.584943
-DEBUG 2021-11-26 23:10:25,216 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1637613460.9176455
-DEBUG 2021-11-26 23:10:25,216 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1637613460.9932218
-DEBUG 2021-11-26 23:10:25,216 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_util.py first seen with mtime 1637615862.6098833
-DEBUG 2021-11-26 23:10:25,216 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\middleware\common.py first seen with mtime 1637613461.7121334
-DEBUG 2021-11-26 23:10:25,216 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1637613461.6153932
-DEBUG 2021-11-26 23:10:25,217 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\whitenoise\middleware.py first seen with mtime 1637613460.148027
-DEBUG 2021-11-26 23:10:25,217 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_imaging.cp310-win_amd64.pyd first seen with mtime 1637615862.5989048
-DEBUG 2021-11-26 23:10:25,217 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1637613460.6950011
-DEBUG 2021-11-26 23:10:25,217 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0010_auto_20200531_2234.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,217 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\Image.py first seen with mtime 1637615862.562004
-DEBUG 2021-11-26 23:10:25,218 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0002_auto_20200528_1402.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,219 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1637613460.9932218
-DEBUG 2021-11-26 23:10:25,220 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0005_auto_20200528_1732.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,220 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\Eshop\wsgi.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,220 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\csrf.py first seen with mtime 1637613461.7460425
-DEBUG 2021-11-26 23:10:25,221 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1637613460.6940036
-DEBUG 2021-11-26 23:10:25,221 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0012_auto_20211024_0024.py first seen with mtime 1635024299.9803061
-DEBUG 2021-11-26 23:10:25,221 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1637613461.2980983
-DEBUG 2021-11-26 23:10:25,221 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1637613461.684208
-DEBUG 2021-11-26 23:10:25,222 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1637613461.5182276
-DEBUG 2021-11-26 23:10:25,222 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0008_auto_20200531_2229.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,222 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1637613461.4437084
-DEBUG 2021-11-26 23:10:25,222 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1637613460.9932218
-DEBUG 2021-11-26 23:10:25,223 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0006_customer.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,223 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1637613461.4427114
-DEBUG 2021-11-26 23:10:25,223 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1637613461.6652582
-DEBUG 2021-11-26 23:10:25,224 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1637613460.9176455
-DEBUG 2021-11-26 23:10:25,224 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1637615862.5819504
-DEBUG 2021-11-26 23:10:25,224 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0007_auto_20200529_2246.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,224 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1637613460.9166374
-DEBUG 2021-11-26 23:10:25,225 autoreload 20036 18760 File C:\Python310\Lib\stringprep.py first seen with mtime 1633367524.0
-DEBUG 2021-11-26 23:10:25,225 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1637613460.6950011
-DEBUG 2021-11-26 23:10:25,225 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1637613460.9186325
-DEBUG 2021-11-26 23:10:25,226 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0009_order.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,226 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1637613461.5182276
-DEBUG 2021-11-26 23:10:25,226 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0011_order_status.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,226 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1637613461.444706
-DEBUG 2021-11-26 23:10:25,226 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1637613460.9196022
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1637613460.9186325
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\middleware\security.py first seen with mtime 1637613461.7141283
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0003_product_category.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\__init__.py first seen with mtime 1637615862.5839639
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1637613460.9196022
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1637613460.9166374
-DEBUG 2021-11-26 23:10:25,227 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1637613460.9176455
-DEBUG 2021-11-26 23:10:25,228 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1637613460.6950011
-DEBUG 2021-11-26 23:10:25,228 autoreload 20036 18760 File C:\Python310\Lib\encodings\idna.py first seen with mtime 1633367524.0
-DEBUG 2021-11-26 23:10:25,228 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1637613460.9196022
-DEBUG 2021-11-26 23:10:25,229 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\store\migrations\0001_initial.py first seen with mtime 1591074352.0
-DEBUG 2021-11-26 23:10:25,229 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1637613461.6662562
-DEBUG 2021-11-26 23:10:25,230 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_version.py first seen with mtime 1637615862.6098833
-DEBUG 2021-11-26 23:10:25,230 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1637613461.7121334
-DEBUG 2021-11-26 23:10:25,230 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1637613460.9196022
-INFO 2021-11-26 23:10:27,757 basehttp 20036 8748 "GET / HTTP/1.1" 302 0
-DEBUG 2021-11-26 23:10:27,808 base 20036 8748 Exception while resolving variable 'customer' in template 'index.html'.
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\__init__.py first seen with mtime 1668685228.619959
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File C:\Python310\Lib\http\client.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\options.py first seen with mtime 1668685228.5719502
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\pytz\tzinfo.py first seen with mtime 1668685225.8128643
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File C:\Python310\Lib\pkgutil.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,236 autoreload 22736 23636 File C:\Python310\Lib\_sitebuiltins.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1668685227.6076372
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File C:\Python310\Lib\asyncio\tasks.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1668685228.5809498
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1668685226.168864
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django_heroku\core.py first seen with mtime 1668685235.5428789
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1668685227.6176372
+DEBUG 2022-11-17 13:41:40,237 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1668685228.5009491
+DEBUG 2022-11-17 13:41:40,238 autoreload 22736 23636 File C:\Python310\Lib\email\_policybase.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,238 autoreload 22736 23636 File C:\Python310\Lib\distutils\version.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,238 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1668685228.2479463
+DEBUG 2022-11-17 13:41:40,238 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1668685228.507949
+DEBUG 2022-11-17 13:41:40,239 autoreload 22736 23636 File C:\Python310\Lib\string.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,239 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1668685228.498949
+DEBUG 2022-11-17 13:41:40,239 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\validators.py first seen with mtime 1668685228.4929492
+DEBUG 2022-11-17 13:41:40,239 autoreload 22736 23636 File C:\Python310\Lib\html\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,239 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1668685228.5729496
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1668685228.6319506
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1668685228.4999492
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1668685228.6249528
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1668685226.8886292
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1668685227.4716356
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\loader.py first seen with mtime 1668685228.6249528
+DEBUG 2022-11-17 13:41:40,240 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1668685228.6699514
+DEBUG 2022-11-17 13:41:40,241 autoreload 22736 23636 File C:\Python310\Lib\re.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,241 autoreload 22736 23636 File C:\Python310\Lib\email\encoders.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,241 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1668685228.57995
+DEBUG 2022-11-17 13:41:40,241 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\html.py first seen with mtime 1668685228.6519508
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File C:\Python310\Lib\uuid.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\functional.py first seen with mtime 1668685228.6509593
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File C:\Python310\Lib\asyncio\streams.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1668685228.5019493
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\pytz\exceptions.py first seen with mtime 1668685225.8118644
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1668685228.2489462
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File C:\Python310\Lib\encodings\utf_8.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\apps.py first seen with mtime 1668674377.236532
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\response.py first seen with mtime 1668685228.62595
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File C:\Python310\Lib\ctypes\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1668685228.5639496
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1668685228.5089493
+DEBUG 2022-11-17 13:41:40,242 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1668685225.61547
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1668685227.086633
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\asyncio\format_helpers.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\enum.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\unittest\signals.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\topological_sort.py first seen with mtime 1668685228.658951
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\queue.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\stat.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\concurrent\futures\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\concurrent\futures\_base.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1668685227.7076375
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File C:\Python310\Lib\pprint.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,243 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1668685228.5089493
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1668685228.531949
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\middleware\security.py first seen with mtime 1668685228.619959
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\views\__init__.py first seen with mtime 1668674377.2523167
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1668685227.366634
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1668685228.6489503
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\__init__.py first seen with mtime 1668685228.662951
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File C:\Python310\Lib\collections\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File C:\Python310\Lib\__future__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1668685228.2499464
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\backends\postgresql\client.py first seen with mtime 1668685228.550949
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\dates.py first seen with mtime 1668685228.6469493
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File C:\Python310\Lib\asyncio\constants.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,244 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1668685228.6429508
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\DLLs\_hashlib.pyd first seen with mtime 1633367560.0
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1668685228.5629497
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\Lib\datetime.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\Lib\email\generator.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1668685228.4869487
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1668685227.0916312
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1668685228.4869487
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1668685227.4696352
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\dotenv\parser.py first seen with mtime 1668685233.7119024
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\Lib\secrets.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\colorama\ansitowin32.py first seen with mtime 1668685232.9301808
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\Lib\contextlib.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1668685228.6239502
+DEBUG 2022-11-17 13:41:40,245 autoreload 22736 23636 File C:\Python310\Lib\json\encoder.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\dotenv\main.py first seen with mtime 1668685233.7119024
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1668685228.6549509
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1668685228.63295
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1668685227.6176372
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1668685228.5809498
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\models\orders.py first seen with mtime 1668674377.248631
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\urls\conf.py first seen with mtime 1668685228.6389506
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1668685228.668951
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1668685227.4746351
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1668685227.6176372
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1668685228.5869493
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1668685228.0637684
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\files\move.py first seen with mtime 1668685228.5059543
+DEBUG 2022-11-17 13:41:40,246 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1668685225.6114666
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1668685227.086633
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\shutil.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1668685228.5389495
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\wsgiref\__init__.py first seen with mtime 1633367526.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\sre_constants.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\views\signup.py first seen with mtime 1668674377.2559648
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\_weakrefset.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\base.py first seen with mtime 1668685228.6209507
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1668685228.5809498
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\heapq.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\dj_database_url.py first seen with mtime 1668685232.9111793
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\Lib\multiprocessing\process.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,247 autoreload 22736 23636 File C:\Python310\DLLs\_bz2.pyd first seen with mtime 1633367560.0
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1668685228.5019493
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File C:\Python310\Lib\asyncio\trsock.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File C:\Python310\Lib\importlib\util.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1668685228.670951
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1668685228.509949
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\http\__init__.py first seen with mtime 1668685228.61395
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File C:\Python310\Lib\subprocess.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1668685228.6669512
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\__init__.py first seen with mtime 1668685228.5329497
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1668685228.5899503
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1668685227.089631
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1668685227.4706376
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File C:\Python310\Lib\numbers.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,248 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1668685228.640951
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\colorama\ansi.py first seen with mtime 1668685232.9291804
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\reprlib.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\http\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\cgi.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1668685225.6144693
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\_os.py first seen with mtime 1668685228.6419504
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\email\_parseaddr.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\_collections_abc.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1668685228.6479511
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\csrf.py first seen with mtime 1668685228.662951
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1668685228.57595
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\operator.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File C:\Python310\Lib\urllib\error.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,249 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1668685228.6559503
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\views\defaults.py first seen with mtime 1668685228.6639502
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1668685228.6549509
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\__init__.py first seen with mtime 1668685226.8816588
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1668685228.498949
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File C:\Python310\Lib\importlib\__init__.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1668685228.0627677
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1668685228.5049489
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1668685228.0627677
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File C:\Python310\Lib\email\charset.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1668685228.63295
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\operations\utils.py first seen with mtime 1668685228.5659494
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1668685228.5309496
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1668685228.57595
+DEBUG 2022-11-17 13:41:40,250 autoreload 22736 23636 File C:\Python310\Lib\xml\dom\NodeFilter.py first seen with mtime 1633367526.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\os.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\asyncio\windows_utils.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1668685228.487949
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\utils\log.py first seen with mtime 1668685228.6539507
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\middlewares\auth.py first seen with mtime 1668674377.237531
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\copy.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\asyncio\runners.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\ctypes\wintypes.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1668685228.5039492
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File C:\Python310\Lib\traceback.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1668685228.5369494
+DEBUG 2022-11-17 13:41:40,251 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1668685225.610469
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\base.html first seen with mtime 1668674377.249138
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\cart.html first seen with mtime 1668674377.2496555
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\index.html first seen with mtime 1668674377.2496555
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\login.html first seen with mtime 1668674377.2501836
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\orders.html first seen with mtime 1668674377.2501836
+DEBUG 2022-11-17 13:41:40,252 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\templates\signup.html first seen with mtime 1668674377.2501836
+DEBUG 2022-11-17 13:41:41,375 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1668685228.2509463
+DEBUG 2022-11-17 13:41:41,375 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1668685227.6136374
+DEBUG 2022-11-17 13:41:41,377 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1668685228.5599499
+DEBUG 2022-11-17 13:41:41,378 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0009_order.py first seen with mtime 1668674377.2395313
+DEBUG 2022-11-17 13:41:41,379 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1668685227.6096368
+DEBUG 2022-11-17 13:41:41,380 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1668685227.7096388
+DEBUG 2022-11-17 13:41:41,380 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_binary.py first seen with mtime 1668685234.6128561
+DEBUG 2022-11-17 13:41:41,380 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_imaging.cp310-win_amd64.pyd first seen with mtime 1668685234.6288557
+DEBUG 2022-11-17 13:41:41,380 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\ImageMode.py first seen with mtime 1668685234.5908866
+DEBUG 2022-11-17 13:41:41,380 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0005_auto_20200528_1732.py first seen with mtime 1668674377.2385316
+DEBUG 2022-11-17 13:41:41,381 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0003_product_category.py first seen with mtime 1668674377.2385316
+DEBUG 2022-11-17 13:41:41,381 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1668685227.2856326
+DEBUG 2022-11-17 13:41:41,381 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0002_auto_20200528_1402.py first seen with mtime 1668674377.2385316
+DEBUG 2022-11-17 13:41:41,382 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1668685228.5819502
+DEBUG 2022-11-17 13:41:41,382 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1668685228.3479476
+DEBUG 2022-11-17 13:41:41,382 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\__init__.py first seen with mtime 1668674377.2405305
+DEBUG 2022-11-17 13:41:41,383 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1668685227.284634
+DEBUG 2022-11-17 13:41:41,383 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_version.py first seen with mtime 1668685234.6418562
+DEBUG 2022-11-17 13:41:41,383 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\__init__.py first seen with mtime 1668685234.6118555
+DEBUG 2022-11-17 13:41:41,384 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1668685228.55895
+DEBUG 2022-11-17 13:41:41,384 autoreload 22736 23636 File C:\Python310\Lib\stringprep.py first seen with mtime 1633367524.0
+DEBUG 2022-11-17 13:41:41,384 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1668685227.612637
+DEBUG 2022-11-17 13:41:41,384 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1668685227.6106365
+DEBUG 2022-11-17 13:41:41,384 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0011_order_status.py first seen with mtime 1668674377.2405305
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0008_auto_20200531_2229.py first seen with mtime 1668674377.2395313
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1668685227.6106365
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1668685227.7096388
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1668685227.612637
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0012_auto_20211024_0024.py first seen with mtime 1668674377.2405305
+DEBUG 2022-11-17 13:41:41,385 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\Eshop\wsgi.py first seen with mtime 1668674377.2305312
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1668685228.5599499
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0004_auto_20200528_1430.py first seen with mtime 1668674377.2385316
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\Image.py first seen with mtime 1668685234.583856
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1668685227.6136374
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1668685227.7106383
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0006_customer.py first seen with mtime 1668674377.2385316
+DEBUG 2022-11-17 13:41:41,387 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1668685227.612637
+DEBUG 2022-11-17 13:41:41,389 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1668685228.6169505
+DEBUG 2022-11-17 13:41:41,389 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1668685227.6096368
+DEBUG 2022-11-17 13:41:41,390 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0007_auto_20200529_2246.py first seen with mtime 1668674377.2395313
+DEBUG 2022-11-17 13:41:41,391 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1668685227.2856326
+DEBUG 2022-11-17 13:41:41,391 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0010_auto_20200531_2234.py first seen with mtime 1668674377.2395313
+DEBUG 2022-11-17 13:41:41,391 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1668685227.6116369
+DEBUG 2022-11-17 13:41:41,391 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1668685227.6136374
+DEBUG 2022-11-17 13:41:41,392 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\_util.py first seen with mtime 1668685234.6408718
+DEBUG 2022-11-17 13:41:41,393 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1668685228.56195
+DEBUG 2022-11-17 13:41:41,394 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1668685227.2856326
+DEBUG 2022-11-17 13:41:41,394 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1668685227.6116369
+DEBUG 2022-11-17 13:41:41,394 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1668685227.6106365
+DEBUG 2022-11-17 13:41:41,395 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1668685228.3469472
+DEBUG 2022-11-17 13:41:41,395 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\store\migrations\0001_initial.py first seen with mtime 1668674377.237531
+DEBUG 2022-11-17 13:41:41,395 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1668685234.6088557
+DEBUG 2022-11-17 13:41:41,395 autoreload 22736 23636 File C:\Python310\Lib\encodings\idna.py first seen with mtime 1633367524.0
+INFO 2022-11-17 13:41:42,251 basehttp 22736 31320 "GET / HTTP/1.1" 302 0
+DEBUG 2022-11-17 13:41:42,297 base 22736 31320 Exception while resolving variable 'customer' in template 'index.html'.
 Traceback (most recent call last):
   File "E:\DD\Music\Tech\neshama-food\venv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
     current = current[bit]
@@ -90,36 +251,47 @@ During handling of the above exception, another exception occurred:
 Traceback (most recent call last):
   File "E:\DD\Music\Tech\neshama-food\venv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
     raise VariableDoesNotExist("Failed lookup for key "
-django.template.base.VariableDoesNotExist: Failed lookup for key [customer] in <django.contrib.sessions.backends.db.SessionStore object at 0x00000145394F8EB0>
-DEBUG 2021-11-26 23:10:27,846 utils 20036 8748 (0.000) SELECT "store_category"."id", "store_category"."name" FROM "store_category"; args=()
-DEBUG 2021-11-26 23:10:27,848 utils 20036 8748 (0.016) SELECT "store_product"."id", "store_product"."name", "store_product"."price", "store_product"."category_id", "store_product"."description", "store_product"."image" FROM "store_product"; args=()
-DEBUG 2021-11-26 23:10:27,857 utils 20036 8748 (0.000) SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = 'sjqaw5i1uuzwurf4od2gl0eyuclheqba' LIMIT 1; args=('sjqaw5i1uuzwurf4od2gl0eyuclheqba',)
-DEBUG 2021-11-26 23:10:27,859 utils 20036 8748 (0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") VALUES ('sjqaw5i1uuzwurf4od2gl0eyuclheqba', 'eyJjYXJ0Ijp7fX0:1mqiUF:g0JwqBjMN9ZYWJ4tUJp_XoXaHesv2j-lsWhqfoGWKRc', '2021-12-10T21:10:27.857459+00:00'::timestamptz); args=('sjqaw5i1uuzwurf4od2gl0eyuclheqba', 'eyJjYXJ0Ijp7fX0:1mqiUF:g0JwqBjMN9ZYWJ4tUJp_XoXaHesv2j-lsWhqfoGWKRc', datetime.datetime(2021, 12, 10, 21, 10, 27, 857459, tzinfo=<UTC>))
-INFO 2021-11-26 23:10:27,860 basehttp 20036 8748 "GET /store HTTP/1.1" 200 22054
-INFO 2021-11-26 23:10:27,969 basehttp 20036 8748 "GET /image/download/uploads/products/black-forest-cake-thumb.jpg HTTP/1.1" 200 213356
-INFO 2021-11-26 23:10:27,969 basehttp 20036 13884 "GET /image/download/uploads/products/Chocolate_cake.jpg HTTP/1.1" 200 56757
-INFO 2021-11-26 23:10:27,973 basehttp 20036 23160 "GET /image/download/uploads/products/Indian_Lentil_Curry.jpg HTTP/1.1" 200 101388
-INFO 2021-11-26 23:10:27,976 basehttp 20036 8748 "GET /image/download/uploads/products/Chinese_Pearl_Meatballs.jpg HTTP/1.1" 200 75939
-INFO 2021-11-26 23:10:27,977 basehttp 20036 13884 "GET /image/download/uploads/products/Chicken_Chop_Suey_with_Ginger.jpg HTTP/1.1" 200 95286
-INFO 2021-11-26 23:10:27,979 basehttp 20036 24360 "GET /image/download/uploads/products/Asian_Lettuce_Wraps.jpg HTTP/1.1" 200 105105
-INFO 2021-11-26 23:10:27,980 basehttp 20036 21656 "GET /image/download/uploads/products/Masala_Dosa.jpg HTTP/1.1" 200 97587
-INFO 2021-11-26 23:10:27,981 basehttp 20036 20272 "GET /image/download/uploads/products/Sambar_Rice.jpg HTTP/1.1" 200 122631
-INFO 2021-11-26 23:10:27,982 basehttp 20036 23160 "GET /image/download/uploads/products/Chinese_Soup.jpg HTTP/1.1" 200 103846
-INFO 2021-11-26 23:10:27,984 basehttp 20036 8748 "GET /image/download/uploads/products/Kung_Pao_Chicken.jpg HTTP/1.1" 200 81361
-INFO 2021-11-26 23:10:27,985 basehttp 20036 13884 "GET /image/download/uploads/products/Mongolian_Chicken_with_Mung_Bean_Sprouts.jpg HTTP/1.1" 200 108368
-INFO 2021-11-26 23:10:27,988 basehttp 20036 24360 "GET /image/download/uploads/products/Quick_Shrimp_Stir-Fry.jpg HTTP/1.1" 200 74661
-INFO 2021-11-26 23:10:27,988 basehttp 20036 21656 "GET /image/download/uploads/products/Taiwanese_Beef_Noodle_Soup.jpg HTTP/1.1" 200 105066
-INFO 2021-11-26 23:10:27,989 basehttp 20036 20272 "GET /image/download/uploads/products/Meatball_sour_soup.jpg HTTP/1.1" 200 79891
-INFO 2021-11-26 23:10:27,991 basehttp 20036 23160 "GET /image/download/uploads/products/Romanian_Sarmale.jpg HTTP/1.1" 200 108360
-INFO 2021-11-26 23:10:27,993 basehttp 20036 13884 "GET /image/download/uploads/products/Cider_braised_turkey_drumsticks.jpg HTTP/1.1" 200 93671
-INFO 2021-11-26 23:10:27,993 basehttp 20036 8748 "GET /image/download/uploads/products/Romanian_Stuffed_Peppers.jpg HTTP/1.1" 200 125809
-INFO 2021-11-26 23:10:27,997 basehttp 20036 23160 "GET /image/download/uploads/products/Meat_hummus.jpg HTTP/1.1" 200 75626
-INFO 2021-11-26 23:10:27,998 basehttp 20036 20272 "GET /image/download/uploads/products/Israeli_Hummus.jpg HTTP/1.1" 200 135070
-INFO 2021-11-26 23:10:27,998 basehttp 20036 21656 "GET /image/download/uploads/products/Israeli_Shakshuka.jpg HTTP/1.1" 200 101003
-INFO 2021-11-26 23:10:27,998 basehttp 20036 24360 "GET /image/download/uploads/products/Fried_chicken_with_tofu_skin.jpg HTTP/1.1" 200 91652
-INFO 2021-11-26 23:10:28,002 basehttp 20036 13884 "GET /image/download/uploads/products/Slow_cooker_lemon_lamb_stew.jpg HTTP/1.1" 200 118128
-INFO 2021-11-26 23:10:28,002 basehttp 20036 8748 "GET /image/download/uploads/products/Tuna_wrap.jpg HTTP/1.1" 200 73523
-DEBUG 2021-11-26 23:10:28,190 base 20036 8748 Exception while resolving variable 'name' in template 'unknown'.
+django.template.base.VariableDoesNotExist: Failed lookup for key [customer] in <django.contrib.sessions.backends.db.SessionStore object at 0x000001C8246F9180>
+DEBUG 2022-11-17 13:41:42,328 utils 22736 31320 (0.000) SELECT "store_category"."id", "store_category"."name" FROM "store_category"; args=()
+DEBUG 2022-11-17 13:41:42,330 utils 22736 31320 (0.000) SELECT "store_product"."id", "store_product"."name", "store_product"."price", "store_product"."category_id", "store_product"."description", "store_product"."image" FROM "store_product"; args=()
+DEBUG 2022-11-17 13:41:42,338 utils 22736 31320 (0.016) SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = 'jn15e39hsbl8pk93ecuot2hbhpl9wvvu' LIMIT 1; args=('jn15e39hsbl8pk93ecuot2hbhpl9wvvu',)
+DEBUG 2022-11-17 13:41:42,340 utils 22736 31320 (0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") VALUES ('jn15e39hsbl8pk93ecuot2hbhpl9wvvu', 'eyJjYXJ0Ijp7fX0:1ovdH4:Cb84AwqTFiHZ1gVMSShO-S9PulikSDBAbLGM7ntPhVs', '2022-12-01T11:41:42.338616+00:00'::timestamptz); args=('jn15e39hsbl8pk93ecuot2hbhpl9wvvu', 'eyJjYXJ0Ijp7fX0:1ovdH4:Cb84AwqTFiHZ1gVMSShO-S9PulikSDBAbLGM7ntPhVs', datetime.datetime(2022, 12, 1, 11, 41, 42, 338616, tzinfo=<UTC>))
+INFO 2022-11-17 13:41:42,342 basehttp 22736 31320 "GET /store HTTP/1.1" 200 22054
+INFO 2022-11-17 13:41:42,476 basehttp 22736 31320 "GET /image/download/uploads/products/black-forest-cake-thumb.jpg HTTP/1.1" 200 213356
+INFO 2022-11-17 13:41:42,482 basehttp 22736 31320 "GET /image/download/uploads/products/Chicken_Chop_Suey_with_Ginger.jpg HTTP/1.1" 200 95286
+INFO 2022-11-17 13:41:42,489 basehttp 22736 31320 "GET /image/download/uploads/products/Chinese_Pearl_Meatballs.jpg HTTP/1.1" 200 75939
+INFO 2022-11-17 13:41:42,492 basehttp 22736 38088 "GET /image/download/uploads/products/Masala_Dosa.jpg HTTP/1.1" 200 97587
+INFO 2022-11-17 13:41:42,496 basehttp 22736 31320 "GET /image/download/uploads/products/Chinese_Soup.jpg HTTP/1.1" 200 103846
+INFO 2022-11-17 13:41:42,499 basehttp 22736 38088 "GET /image/download/uploads/products/Kung_Pao_Chicken.jpg HTTP/1.1" 200 81361
+INFO 2022-11-17 13:41:42,505 basehttp 22736 31320 "GET /image/download/uploads/products/Mongolian_Chicken_with_Mung_Bean_Sprouts.jpg HTTP/1.1" 200 108368
+INFO 2022-11-17 13:41:42,506 basehttp 22736 43228 "GET /image/download/uploads/products/Asian_Lettuce_Wraps.jpg HTTP/1.1" 200 105105
+INFO 2022-11-17 13:41:42,508 basehttp 22736 32752 "GET /image/download/uploads/products/Sambar_Rice.jpg HTTP/1.1" 200 122631
+INFO 2022-11-17 13:41:42,511 basehttp 22736 38088 "GET /image/download/uploads/products/Quick_Shrimp_Stir-Fry.jpg HTTP/1.1" 200 74661
+INFO 2022-11-17 13:41:42,515 basehttp 22736 31320 "GET /image/download/uploads/products/Meatball_sour_soup.jpg HTTP/1.1" 200 79891
+INFO 2022-11-17 13:41:42,517 basehttp 22736 43228 "GET /image/download/uploads/products/Fried_chicken_with_tofu_skin.jpg HTTP/1.1" 200 91652
+INFO 2022-11-17 13:41:42,519 basehttp 22736 20516 "GET /image/download/uploads/products/Chocolate_cake.jpg HTTP/1.1" 200 56757
+INFO 2022-11-17 13:41:42,521 basehttp 22736 42500 "GET /image/download/uploads/products/Indian_Lentil_Curry.jpg HTTP/1.1" 200 101388
+INFO 2022-11-17 13:41:42,523 basehttp 22736 32752 "GET /image/download/uploads/products/Romanian_Stuffed_Peppers.jpg HTTP/1.1" 200 125809
+INFO 2022-11-17 13:41:42,523 basehttp 22736 38088 "GET /image/download/uploads/products/Taiwanese_Beef_Noodle_Soup.jpg HTTP/1.1" 200 105066
+INFO 2022-11-17 13:41:42,528 basehttp 22736 43228 "GET /image/download/uploads/products/Cider_braised_turkey_drumsticks.jpg HTTP/1.1" 200 93671
+INFO 2022-11-17 13:41:42,529 basehttp 22736 31320 "GET /image/download/uploads/products/Israeli_Hummus.jpg HTTP/1.1" 200 135070
+INFO 2022-11-17 13:41:42,531 basehttp 22736 20516 "GET /image/download/uploads/products/Romanian_Sarmale.jpg HTTP/1.1" 200 108360
+INFO 2022-11-17 13:41:42,531 basehttp 22736 42500 "GET /image/download/uploads/products/Israeli_Shakshuka.jpg HTTP/1.1" 200 101003
+INFO 2022-11-17 13:41:42,533 basehttp 22736 38088 "GET /image/download/uploads/products/Meat_hummus.jpg HTTP/1.1" 200 75626
+INFO 2022-11-17 13:41:42,534 basehttp 22736 32752 "GET /image/download/uploads/products/Slow_cooker_lemon_lamb_stew.jpg HTTP/1.1" 200 118128
+INFO 2022-11-17 13:41:42,535 basehttp 22736 43228 "GET /image/download/uploads/products/Tuna_wrap.jpg HTTP/1.1" 200 73523
+DEBUG 2022-11-17 13:41:42,570 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1668685228.066768
+DEBUG 2022-11-17 13:41:42,574 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1668685228.0647676
+DEBUG 2022-11-17 13:41:42,574 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1668685228.0677683
+DEBUG 2022-11-17 13:41:42,575 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1668685226.9206417
+DEBUG 2022-11-17 13:41:42,577 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1668685228.6219504
+DEBUG 2022-11-17 13:41:42,580 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1668685228.066768
+DEBUG 2022-11-17 13:41:42,580 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1668685227.4726355
+DEBUG 2022-11-17 13:41:42,581 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1668685228.2489462
+DEBUG 2022-11-17 13:41:42,583 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1668685228.0647676
+DEBUG 2022-11-17 13:41:42,584 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1668685228.066768
+DEBUG 2022-11-17 13:41:42,589 autoreload 22736 23636 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1668685226.9206417
+DEBUG 2022-11-17 13:41:43,526 base 22736 43228 Exception while resolving variable 'name' in template 'unknown'.
 Traceback (most recent call last):
   File "E:\DD\Music\Tech\neshama-food\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
     response = get_response(request)
@@ -158,16 +330,5 @@ Traceback (most recent call last):
   File "E:\DD\Music\Tech\neshama-food\venv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
     raise VariableDoesNotExist("Failed lookup for key "
 django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
-WARNING 2021-11-26 23:10:28,196 log 20036 8748 Not Found: /favicon.ico
-WARNING 2021-11-26 23:10:28,196 basehttp 20036 8748 "GET /favicon.ico HTTP/1.1" 404 3581
-DEBUG 2021-11-26 23:10:28,369 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1637613461.4437084
-DEBUG 2021-11-26 23:10:28,370 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1637613461.3000927
-DEBUG 2021-11-26 23:10:28,371 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1637613461.2980983
-DEBUG 2021-11-26 23:10:28,372 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1637613461.2990954
-DEBUG 2021-11-26 23:10:28,372 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1637613461.2990954
-DEBUG 2021-11-26 23:10:28,375 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1637613460.8348577
-DEBUG 2021-11-26 23:10:28,377 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1637613461.7151253
-DEBUG 2021-11-26 23:10:28,379 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1637613460.430386
-DEBUG 2021-11-26 23:10:28,380 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1637613460.430386
-DEBUG 2021-11-26 23:10:28,380 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1637613461.3000927
-DEBUG 2021-11-26 23:10:28,381 autoreload 20036 18760 File E:\DD\Music\Tech\neshama-food\venv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1637613461.2980983
+WARNING 2022-11-17 13:41:43,527 log 22736 43228 Not Found: /favicon.ico
+WARNING 2022-11-17 13:41:43,528 basehttp 22736 43228 "GET /favicon.ico HTTP/1.1" 404 3581
